@@ -4,7 +4,7 @@
 
 This application is a console-based gym management system. It allows users to interact with menus to manage clients and coaches, with various options for adding, editing, and listing data. The system also supports a "fancy" menu interface for a more graphical experience.
 
-The project was completed on 26th September, 2023.
+The project was completed on September, 2023.
 
 ## File Structure
 
