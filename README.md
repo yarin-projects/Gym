@@ -16,3 +16,6 @@ The project was completed on 26th September, 2023.
 - **ConsoleUtils.cs**: Utility functions for console operations.
 - **FileHandler.cs**: Handles file operations for saving and loading client and coach data.
 - **ManagementRepo.cs**: Repository for retrieving menu options and titles.
+- **ManagementUtils.cs**: Utility functions for managing clients and coaches, including editing, adding, and deleting.
+- **Validation.cs**: Validation methods for client and coach data, including ID, string fields, dates, and more.
+- **Input.cs**: Methods for gathering user input for client and coach details, and other related fields.
